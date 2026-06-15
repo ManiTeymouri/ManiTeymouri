@@ -16,7 +16,6 @@
 const mani = {
   age: 22,
   role: "Frontend Developer",
-  currentProject: "Zero 🖤",
   passions: ["clean UI", "smooth UX", "pixel-perfect design"],
   availableFor: ["freelance", "collaborations", "open source"],
 };
@@ -34,13 +33,6 @@ const mani = {
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ---
-
-## 🚀 Current Project
-
-### ⬛ Zero
-> Currently in active development — something big is coming.
-
-`Next.js` · `React` · `Tailwind CSS` · `🔨 In Progress`
 
 ---
 
